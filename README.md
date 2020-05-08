@@ -1,0 +1,2 @@
+# AIM
+JNU_AIM_PROJECT
